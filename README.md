@@ -1,7 +1,2 @@
-### create some initial files : 
-    - 1. BruteFroces Solution 
-    - 2. Efficient Solution
-    - 3. Create cpp file which create different type of testcase;
-    - 4.Create a txt file which store testcase from file - 03
-    - 5. Built Solution - 01, Solution - 02, Code-04
-    - 6.Create a bash file to check the 
+# Stress Testing for Competitive Programming
+This repository contains scripts for stress testing competitive programming solutions. The goal is to find hidden bugs and edge cases by generating random test inputs, running multiple solutions, and comparing outputs.
