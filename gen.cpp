@@ -7,13 +7,12 @@ inline int gen_random(int l, int r) {
     return uniform_int_distribution<int>(l, r)(rng);
 }
 signed main() {
-    freopen("in.txt", "w", stdout);
-    cout << 1 << endl;
-    
-    int n = gen_random(1, 10);
-    cout << n << endl;
-    for (int i = 1; i <= n; i++) {
-        cout << gen_random(1, n) << " ";
-    }
+    if (freopen("in.txt", "w", stdout) == nullptr) {
+        perror("Error opening in.txt for writing");
+        return EXIT_FAILURE;
+    }    
+    /* 
+        1. write code for generate testcase according to input constraints
+    */
     return 0;
 }
