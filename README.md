@@ -32,7 +32,7 @@ Stress-Testing/
 
 * **C++ Compiler** (g++)
 * Basic knowledge of compiling and running C++ programs.
-* Basic Knoladge of running bash file
+* Basic Knowledge of running bash file
 
 ---
 
