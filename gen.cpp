@@ -13,6 +13,8 @@ signed main() {
     }    
     /* 
         1. write code for generate testcase according to input constraints
+        2. Write code accoding to input format
+        3. If given multiple testcase, ignore this, simply use only single testcase
     */
     return 0;
 }
