@@ -98,6 +98,7 @@ Feel free to fork this repo and improve it (e.g.adding better generators).
 
 ---
 ## My Sublime Setup Screenshot :
-![Uploading image.png…]()
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9681ba39-e151-45e1-b96a-6a16b723fe75" />
+
 
 
